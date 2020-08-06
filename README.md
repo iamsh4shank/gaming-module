@@ -6,3 +6,6 @@ Currenlty, it contains three games -
 - Tic tac toe
 
 **Under developement**
+- Menu 
+- game architecture
+- graphics development
